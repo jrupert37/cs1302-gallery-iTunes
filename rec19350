@@ -1,0 +1,74 @@
+cs1302-gallery:
+total 20860
+-rw-r--r--. 1 myid 21294267 Nov 16 22:42 AboutMe.png
+-rw-r--r--. 1 myid     3006 Nov  9 18:34 pom.xml
+-rw-r--r--. 1 myid    53762 Nov 10 23:27 README.md
+-rw-r--r--. 1 myid        0 Nov 21 23:48 rec19350
+-rwxr--r--. 1 myid       77 Nov 15 15:09 rungallery.sh
+drwxr-xr-x. 3 myid       18 Nov  9 18:34 src
+drwxr-xr-x. 5 myid       66 Nov 21 23:45 target
+
+cs1302-gallery/src:
+total 0
+drwxr-xr-x. 3 myid 26 Nov  9 18:34 main
+
+cs1302-gallery/src/main:
+total 0
+drwxr-xr-x. 3 myid 28 Nov  9 18:34 java
+
+cs1302-gallery/src/main/java:
+total 0
+drwxr-xr-x. 3 myid 29 Nov  9 18:34 cs1302
+
+cs1302-gallery/src/main/java/cs1302:
+total 0
+drwxr-xr-x. 2 myid 67 Nov 21 23:45 gallery
+
+cs1302-gallery/src/main/java/cs1302/gallery:
+total 24
+-rw-r--r--. 1 myid 17457 Nov 21 23:45 GalleryApp.java
+-rw-r--r--. 1 myid   790 Nov  9 18:34 GalleryDriver.java
+
+cs1302-gallery/target:
+total 0
+drwxr-xr-x. 3 myid 28 Nov 21 23:45 classes
+drwxr-xr-x. 3 myid 33 Nov 21 23:45 generated-sources
+drwxr-xr-x. 3 myid 43 Nov 21 23:45 maven-status
+
+cs1302-gallery/target/classes:
+total 0
+drwxr-xr-x. 3 myid 21 Nov 21 23:45 cs1302
+
+cs1302-gallery/target/classes/cs1302:
+total 0
+drwxr-xr-x. 2 myid 69 Nov 21 23:45 gallery
+
+cs1302-gallery/target/classes/cs1302/gallery:
+total 20
+-rw-r--r--. 1 myid 13570 Nov 21 23:45 GalleryApp.class
+-rw-r--r--. 1 myid  1123 Nov 21 23:45 GalleryDriver.class
+
+cs1302-gallery/target/generated-sources:
+total 0
+drwxr-xr-x. 2 myid 6 Nov 21 23:45 annotations
+
+cs1302-gallery/target/generated-sources/annotations:
+total 0
+
+cs1302-gallery/target/maven-status:
+total 0
+drwxr-xr-x. 3 myid 29 Nov 21 23:45 maven-compiler-plugin
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin:
+total 0
+drwxr-xr-x. 3 myid 37 Nov 21 23:45 compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile:
+total 0
+drwxr-xr-x. 2 myid 64 Nov 21 23:45 default-compile
+
+cs1302-gallery/target/maven-status/maven-compiler-plugin/compile/default-compile:
+total 8
+-rw-r--r--. 1 myid  67 Nov 21 23:45 createdFiles.lst
+-rw-r--r--. 1 myid 181 Nov 21 23:45 inputFiles.lst
+/home/myid/jbr35352/projects/cs1302-gallery:/home/myid/csci-1302
